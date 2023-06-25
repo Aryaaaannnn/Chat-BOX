@@ -7,7 +7,7 @@
     "start": "node backend/server.js",
     "server": "node server.js"
   },
-  "author": "Avijit roy",
+  "author": "Aryan raj",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
